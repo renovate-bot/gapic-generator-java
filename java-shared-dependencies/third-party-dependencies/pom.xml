@@ -39,7 +39,7 @@
     <google.cloud.opentelemetry.version>0.33.0</google.cloud.opentelemetry.version>
     <opentelemetry-grpc-instrumentation.version>2.1.0-alpha</opentelemetry-grpc-instrumentation.version>
     <opentelemetry-semconv.version>1.29.0-alpha</opentelemetry-semconv.version>
-    <flogger.version>0.8</flogger.version>
+    <flogger.version>0.9</flogger.version>
     <arrow.version>17.0.0</arrow.version>
     <dev.cel.version>0.6.0</dev.cel.version>
     <com.google.crypto.tink.version>1.16.0</com.google.crypto.tink.version>
