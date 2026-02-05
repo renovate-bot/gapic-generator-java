@@ -36,7 +36,7 @@
     <!-- ensure checker-qual version matches what Guava uses -->
     <checker-qual.version>3.49.0</checker-qual.version>
     <perfmark-api.version>0.27.0</perfmark-api.version>
-    <google.cloud.opentelemetry.version>0.33.0</google.cloud.opentelemetry.version>
+    <google.cloud.opentelemetry.version>0.36.0</google.cloud.opentelemetry.version>
     <opentelemetry-grpc-instrumentation.version>2.1.0-alpha</opentelemetry-grpc-instrumentation.version>
     <opentelemetry-semconv.version>1.29.0-alpha</opentelemetry-semconv.version>
     <flogger.version>0.8</flogger.version>
