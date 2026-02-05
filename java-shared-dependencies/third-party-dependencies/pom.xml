@@ -38,7 +38,7 @@
     <perfmark-api.version>0.27.0</perfmark-api.version>
     <google.cloud.opentelemetry.version>0.33.0</google.cloud.opentelemetry.version>
     <opentelemetry-grpc-instrumentation.version>2.1.0-alpha</opentelemetry-grpc-instrumentation.version>
-    <opentelemetry-semconv.version>1.29.0-alpha</opentelemetry-semconv.version>
+    <opentelemetry-semconv.version>1.39.0</opentelemetry-semconv.version>
     <flogger.version>0.8</flogger.version>
     <arrow.version>17.0.0</arrow.version>
     <dev.cel.version>0.6.0</dev.cel.version>
